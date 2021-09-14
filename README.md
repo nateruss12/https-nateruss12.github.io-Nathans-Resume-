@@ -1,1 +1,0 @@
-# https-nateruss12.github.io-Nathans-Resume-
