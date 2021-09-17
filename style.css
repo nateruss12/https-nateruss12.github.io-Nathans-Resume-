@@ -27,7 +27,7 @@ body {
         div#right-column {
             border-left: rgb(184, 98, 0) solid 1px;
             flex: 1 1 50px;
-            padding: 4em;
+            padding: 3em;
             line-height: 1.2em;
         }
 
@@ -57,7 +57,7 @@ body {
             padding-bottom: 1rem;
         }
 
-        #initials {
+        #Name {
             font-family: 'Times New Roman', Times, serif;
             font-size: 6em;
             margin-bottom: 1rem;
