@@ -54,7 +54,7 @@ body {
         h2 {
             border-bottom: rgba(255, 123, 0.884) solid 1px;
             margin: 0rem 0;
-            padding-bottom: 1rem;
+            padding-bottom: 0rem;
         }
 
         #Name {
